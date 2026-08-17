@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Environment files
+.env
+*.env
+
+# Firebase service account key — NEVER commit this!
+server/serviceAccountKey.json
+serviceAccountKey.json
+*-firebase-adminsdk-*.json
+
+# Build output
+client/dist/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
