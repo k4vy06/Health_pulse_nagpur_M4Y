@@ -46,7 +46,7 @@ export default function RoleSwitcher({ isOpen, onClose }) {
       isOpen={isOpen}
       onClose={onClose}
       title="Switch Surveillance Role"
-      subtitle="Select a persona to experience HealthPulse Nagpur from different departmental perspectives"
+      subtitle="Select a persona to experience SehatSetu from different departmental perspectives"
       maxWidth="max-w-xl"
     >
       <div className="space-y-3">

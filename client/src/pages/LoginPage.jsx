@@ -75,7 +75,7 @@ export default function LoginPage() {
           </div>
           <div>
             <h1 className="text-base font-bold text-white tracking-tight flex items-center gap-2">
-              HealthPulse
+              SehatSetu
               <span className="text-[10px] font-extrabold uppercase px-1.5 py-0.2 rounded bg-primary-500/20 text-primary-400 border border-primary-500/30">
                 NAGPUR
               </span>

@@ -79,7 +79,7 @@ export default function Navbar({ onToggleSidebar, isSidebarOpen }) {
             </div>
             <div className="hidden sm:block">
               <div className="flex items-center gap-2">
-                <span className="text-base font-bold text-white tracking-tight">HealthPulse</span>
+                <span className="text-base font-bold text-white tracking-tight">SehatSetu</span>
                 <span className="text-[10px] font-extrabold uppercase px-1.5 py-0.5 rounded bg-primary-500/20 text-primary-400 border border-primary-500/30">
                   NAGPUR
                 </span>
