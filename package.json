@@ -1,0 +1,7 @@
+{
+  "name": "healthpulse-nagpur-root",
+  "private": true,
+  "scripts": {
+    "vercel-build": "cd client && npm install && npm run build && cd .. && rm -rf public && mkdir -p public && cp -r client/dist/* public/"
+  }
+}
